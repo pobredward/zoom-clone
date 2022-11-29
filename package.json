@@ -1,0 +1,14 @@
+{
+  "name": "zoom-clone",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WebRTC and Websockets",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pobredward/zoom-clone.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pobredward/zoom-clone/issues"
+  },
+  "homepage": "https://github.com/pobredward/zoom-clone#readme"
+}
